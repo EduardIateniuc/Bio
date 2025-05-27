@@ -1,0 +1,76 @@
+{
+  "name": "Eduard Iateniuc",
+  "title": "Full Stack Developer",
+  "bio": "Passionate full stack developer with extensive experience building modern web applications. Specialized in creating elegant solutions using cutting-edge technologies. I enjoy tackling complex problems and turning ideas into reality through clean, efficient code.",
+  "skills": [
+    "JavaScript / TypeScript",
+    "React / Next.js",
+    "Java Core / Spring Boot",
+    "MySql / PostgreSQL",
+    "AWS / Docker",
+    "UI/UX Design",
+    "RESTful APIs"
+  ],
+  "experience": [
+    {
+      "company": "Freelance",
+      "position": "Junior Full Stack Developer",
+      "period": "2024 - Present",
+      "description": "Leading development of enterprise web applications, mentoring junior developers, and implementing CI/CD practices."
+    },
+    {
+      "company": "Trend MD",
+      "position": "Full Stack Developer",
+      "period": "2023 - 2024",
+      "description": "Administration of AWS services, development of RESTful APIs, and integration of third-party services."
+    },
+    {
+      "company": "Student Projects",
+      "position": "Frontend Developer",
+      "period": "2022 - 2023",
+      "description": "Created responsive web interfaces and implemented designs using modern JavaScript frameworks."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Centrul de Excelenta in Informatica",
+      "degree": "Bachelor's in Computer Science",
+      "year": "2022-2026"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "E-commerce Market - Trend MD",
+      "description": "Developed a full-featured e-commerce platform using React and Java Spring Boot. Implemented user authentication, product management, and payment processing.",
+      "technologies": ["React", "Java Spring Boot", "MySQL", "AWS"],
+      "previewImg": "/videos/trendmd.webp",
+      "width": 800,
+      "height": 500
+    },
+    {
+      "id": 2,
+      "name": "Parking Management System",
+      "description": "Designed and implemented a parking management system using Java Spring Boot and MySQL. Developed RESTful APIs for user authentication and parking space management.",
+      "technologies": ["Next js", "Java Spring Boot", "PostgreSQL", "AWS"],
+      "previewImg": "https://i.imgur.com/AJURAGT.png",
+      "width": 400,
+      "height": 1000
+    },
+    {
+      "id": 3,
+      "name": "Telegram Casino Bot",
+      "description": "Created a Telegram bot for a casino game using Java and PostgreSQL. Implemented user authentication and game logic.",
+      "technologies": ["React js", "Java Spring Boot", "MongoDb", "Google Cloud"],
+      "previewImg": "https://i.imgur.com/2TxMEom.png",
+      "width": 640,
+      "height": 360
+    }
+  ],
+  "contact": {
+    "email": "eduardaceman@gmail.com",
+    "github": "github.com/EduardIateniuc",
+    "linkedin": "linkedin.com/in/эдуард-яценюк-a51677278",
+    "website": "eduard-dev.com"
+  }
+}
